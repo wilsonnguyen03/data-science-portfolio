@@ -1,9 +1,5 @@
-# Data Science Portfolio — YOUR NAME
-**Tagline:** ONE LINE about your focus (e.g., “Analytics → ML → dashboards, reproducible and well-documented.”)
-
-[LinkedIn](YOUR_LINK) · [Email](mailto:YOUR_EMAIL) · [Resume](YOUR_LINK) · [Main GitHub](https://github.com/YOUR_USERNAME)
-
----
+# Data Science Portfolio - WILSON
+Turning large datasets into actionable insights with machine learning, visualization, and full-stack apps.
 
 ## 🔎 Contents
 - [Featured](#featured)
@@ -12,7 +8,6 @@
 - [Dashboards / Apps](#dashboards--apps)
 - [Geo / Time Series](#geo--time-series)
 - [Templates & Utilities](#templates--utilities)
-
 ---
 
 ## ⭐ Featured
